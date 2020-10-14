@@ -22,5 +22,6 @@ stringType = "Gokul";
 console.log(numberType,booleanType,stringType);
 
 var undefinedType: undefined;
-var  nullType: null; // outpuyt also undefined
-console.log(undefinedType, nullType);
+var  nullType: null; // output also undefined
+
+console.log(undefinedType, nullType);   

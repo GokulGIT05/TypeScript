@@ -14,5 +14,5 @@ stringType = "Gokul";
 // stringType = true;
 console.log(numberType, booleanType, stringType);
 var undefinedType;
-var nullType;
+var nullType; // output also undefined
 console.log(undefinedType, nullType);
